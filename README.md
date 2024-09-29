@@ -1,1 +1,2 @@
-# Guess-The-Pitch
+# Guess The Pitch Game
+Activity for Arduino RTOS
